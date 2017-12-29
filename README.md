@@ -1,5 +1,5 @@
 # Think-Tank
 HI ALL,
 
-zO here, my interests are music, woman and brigning them together in a social platform.
+interests are creating a web based social app. where members can upload/share original music. CHat and share video/photos. NSFW conntent.
 Music and woman!
