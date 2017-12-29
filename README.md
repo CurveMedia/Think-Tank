@@ -1,2 +1,5 @@
 # Think-Tank
-A web based app. interacting online with like minded people. range from chatting to NSFW explicit content. hook up and date feature. 
+HI ALL,
+
+zO here, my interests are music, woman and brigning them together in a social platform.
+Music and woman!
